@@ -1,0 +1,892 @@
+4:00 p.m.
+
+instagram.com
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.588 ms	0.610 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.589 ms
+
+			
+3	core12.nbg1.hetzner.com	213.239.224.13	 	2.795 ms	 	 
+core11.nbg1.hetzner.com	213.239.224.9	 	2.802 ms	 
+core11.nbg1.hetzner.com	213.239.245.221	 	2.751 ms
+
+			
+4	juniper4.dc2.nbg1.hetzner.com	213.239.203.138	 	2.855 ms	2.885 ms	 
+juniper4.dc2.nbg1.hetzner.com	213.239.245.26	 	2.851 ms
+
+			
+5	hbg-b1-link.telia.net	213.248.70.0	 	18.976 ms	18.991 ms	18.997 ms
+
+			
+6	hbg-bb4-link.telia.net	213.155.135.86	 	108.174 ms	 	 
+hbg-bb4-link.telia.net	213.155.135.84	 	107.435 ms	 
+hbg-bb1-link.telia.net	213.155.135.80	 	111.821 ms
+
+			
+7	ldn-bb2-link.telia.net	62.115.122.161	 	107.422 ms	 	 
+ldn-bb3-link.telia.net	80.91.249.10	 	107.945 ms	108.011 ms
+
+			
+8	ash-bb3-link.telia.net	80.91.246.68	 	110.458 ms	110.432 ms	 
+ash-bb4-link.telia.net	62.115.122.61	 	103.560 ms
+
+			
+9	ash-b1-link.telia.net	80.91.248.157	 	110.453 ms	110.326 ms	110.327 ms
+
+			
+10	vadata-ic-157230-ash-bb1.c.telia.net	213.248.94.50	 	109.892 ms	 	 
+vadata-ic-157233-ash-bb1.c.telia.net	62.115.9.70	 	109.922 ms	109.924 ms
+
+			
+11	 	 	 	*	*	*
+
+			
+12	 	 	 	*	*	*
+
+			
+13	 	 	 	*	*	*
+
+			
+14	 	 	 	*	*	*
+
+			
+15	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+
+
+linkedin.com
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.901 ms	 	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.231 ms	0.243 ms
+
+			
+3	core11.nbg1.hetzner.com	213.239.245.221	 	2.762 ms	 	 
+core1.fra.hetzner.com	213.239.245.177	 	4.923 ms	 
+core1.fra.hetzner.com	213.239.245.218	 	4.855 ms
+
+			
+4	juniper4.pop2.fra.hetzner.com	213.239.245.10	 	4.915 ms	4.915 ms	 
+ 		in	
+
+			
+5	ae5-710.nbg40.core-backbone.com	81.95.15.5	 	2.940 ms	 	 
+ae1-710.fra20.core-backbone.com	80.255.15.121	 	5.670 ms	 
+ae5-710.nbg40.core-backbone.com	81.95.15.5	 	2.940 ms
+
+			
+6	ae5-2092.nyk10.core-backbone.com	5.56.18.94	de	85.584 ms	84.927 ms	84.816 ms
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+
+			
+11	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+internshala.com
+
+1	 	 	 	*	*	*
+
+			
+2	core21.fsn1.hetzner.com	213.239.245.237	 	0.283 ms	0.298 ms	0.292 ms
+
+			
+3	core1.fra.hetzner.com	213.239.245.177	 	37.998 ms	 	 
+core4.fra.hetzner.com	213.239.245.14	 	5.063 ms	5.064 ms
+
+			
+4	juniper4.pop2.fra.hetzner.com	213.239.245.10	 	4.904 ms	4.932 ms	 
+ 		in	
+
+			
+5	 	 	 	*	*	*
+
+			
+6	 	 	 	*	*	*
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+
+bmovies.to
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.299 ms	 	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.304 ms	 
+core22.fsn1.hetzner.com	213.239.245.241	 	0.299 ms
+
+			
+3	core4.fra.hetzner.com	213.239.245.14	 	5.124 ms	 	 
+core4.fra.hetzner.com	213.239.245.18	 	5.094 ms	5.109 ms
+
+			
+4	core5.fra.hetzner.com	213.239.245.126	 	5.171 ms	5.202 ms	5.165 ms
+
+			
+5	 	 	 	*	*	*
+
+			
+6	 	 	 	*	*	*
+
+
+
+
+
+
+
+
+
+
+hostingchecker.com
+
+traceroute to hostingchecker.com (104.236.225.127), 30 hops max, 60 byte packets
+
+			
+1	 	 	 	*	*	*
+
+			
+2	core21.fsn1.hetzner.com	213.239.245.237	 	0.306 ms	0.322 ms	0.315 ms
+
+			
+3	core1.fra.hetzner.com	213.239.245.218	 	4.955 ms	4.957 ms	4.950 ms
+
+			
+4	 	 	 	*	*	*
+
+			
+5	ae-1.r24.frnkge08.de.bb.gin.ntt.net	129.250.6.206	 	5.765 ms	7.074 ms	7.046 ms
+
+			
+6	ae-4.r25.nycmny01.us.bb.gin.ntt.net	129.250.2.4	 	87.374 ms	87.329 ms	87.323 ms
+
+			
+7	ae-2.r07.nycmny01.us.bb.gin.ntt.net	129.250.3.98	 	85.594 ms	 	 
+ae-2.r08.nycmny01.us.bb.gin.ntt.net	129.250.6.209	 	88.027 ms	88.345 ms
+
+			
+8	ce-0-4-0-3.r08.nycmny01.us.ce.gin.ntt.net	157.238.179.154	 	87.328 ms	86.560 ms	*
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+
+			
+11	 	 	 	*	*	*
+
+			
+12	 	 	 	*	*	*
+
+			
+13	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+
+geeksforgeeks.com
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.288 ms	0.300 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.206 ms
+
+			
+3	core1.fra.hetzner.com	213.239.245.177	 	4.906 ms	 	 
+core1.fra.hetzner.com	213.239.245.218	 	4.889 ms	4.891 ms
+
+			
+4	et-0-0-47.cr10-fra2.ip4.gtt.net	77.67.76.141	 	4.825 ms	4.834 ms	4.832 ms
+
+			
+5	xe-3-3-0.cr1-lon1.ip4.gtt.net	89.149.186.114	 	23.006 ms	23.013 ms	23.009 ms
+
+			
+6	 	 	 	*	*	*
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8:50 pm
+
+
+
+instagram.com
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	2.277 ms	2.287 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	4.270 ms
+
+			
+3	core12.nbg1.hetzner.com	213.239.245.214	 	2.803 ms	 	 
+core12.nbg1.hetzner.com	213.239.224.13	 	3.624 ms	 
+core11.nbg1.hetzner.com	213.239.224.9	 	2.861 ms
+
+			
+4	juniper4.dc2.nbg1.hetzner.com	213.239.245.26	 	2.832 ms	2.851 ms	 
+juniper4.dc2.nbg1.hetzner.com	213.239.203.138	 	2.780 ms
+
+			
+5	hbg-b1-link.telia.net	213.248.70.0	 	18.896 ms	18.901 ms	18.901 ms
+
+			
+6	hbg-bb1-link.telia.net	213.155.135.80	 	136.334 ms	 	 
+hbg-bb1-link.telia.net	213.155.135.82	 	135.429 ms	135.414 ms
+
+			
+7	ldn-bb3-link.telia.net	80.91.249.10	 	106.626 ms	106.340 ms	106.299 ms
+
+			
+8	ash-bb3-link.telia.net	80.91.246.68	 	110.369 ms	 	 
+ash-bb4-link.telia.net	62.115.122.61	 	103.882 ms	 
+ash-bb3-link.telia.net	80.91.246.68	 	110.369 ms
+
+			
+9	ash-b1-link.telia.net	213.155.136.39	 	107.590 ms	106.185 ms	 
+ash-b1-link.telia.net	80.91.248.157	 	110.398 ms
+
+			
+10	vadata-ic-157233-ash-bb1.c.telia.net	62.115.9.70	 	106.161 ms	 	 
+vadata-ic-157230-ash-bb1.c.telia.net	213.248.94.50	 	105.775 ms	 
+vadata-ic-157233-ash-bb1.c.telia.net	62.115.9.70	 	106.161 ms
+
+			
+11	 	 	 	*	*	*
+
+			
+12	 	 	 	*	*	*
+
+			
+13	 	 	 	*	*	*
+
+			
+14	 	 	 	*	*	*
+
+			
+15	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+linkedin.com
+
+1	 	 	 	*	*	*
+
+			
+2	core21.fsn1.hetzner.com	213.239.245.237	 	0.275 ms	 	 
+core22.fsn1.hetzner.com	213.239.245.241	 	1.006 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.275 ms
+
+			
+3	core1.fra.hetzner.com	213.239.245.177	 	12.824 ms	 	 
+core11.nbg1.hetzner.com	213.239.224.9	 	2.832 ms	 
+core1.fra.hetzner.com	213.239.245.218	 	4.951 ms
+
+			
+4	juniper5.dc2.nbg1.hetzner.com	213.239.229.162	 	2.837 ms	2.846 ms	 
+juniper5.dc2.nbg1.hetzner.com	213.239.229.166	 	2.808 ms
+
+			
+5	ae5-710.nbg40.core-backbone.com	81.95.15.5	 	2.932 ms	 	 
+ae1-710.fra20.core-backbone.com	80.255.15.121	 	5.633 ms	 
+ae5-710.nbg40.core-backbone.com	81.95.15.5	 	2.932 ms
+
+			
+6	ae5-2092.nyk10.core-backbone.com	5.56.18.94	de	85.538 ms	86.222 ms	86.216 ms
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+
+			
+11	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+internshala.com
+
+
+1	 	 	 	*	*	*
+
+			
+2	core21.fsn1.hetzner.com	213.239.245.237	 	0.258 ms	0.262 ms	0.254 ms
+
+			
+3	core4.fra.hetzner.com	213.239.245.14	 	4.858 ms	 	 
+core1.fra.hetzner.com	213.239.245.218	 	5.548 ms	5.548 ms
+
+			
+4	juniper1.pop1.fra.hetzner.com	213.239.203.238	 	4.984 ms	4.989 ms	4.994 ms
+
+			
+5	 	 	 	*	*	*
+
+			
+6	 	 	 	*	*	*
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+bmovies.to
+
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.246 ms	0.259 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.250 ms
+
+			
+3	core4.fra.hetzner.com	213.239.245.14	 	4.935 ms	 	 
+core4.fra.hetzner.com	213.239.245.18	 	4.940 ms	 
+core4.fra.hetzner.com	213.239.245.14	 	4.935 ms
+
+			
+4	core5.fra.hetzner.com	213.239.245.126	 	5.222 ms	 	 
+core5.fra.hetzner.com	213.239.245.86	 	7.164 ms	 
+core5.fra.hetzner.com	213.239.245.126	 	5.222 ms
+
+			
+5	 	 	 	*	*	*
+
+			
+6	 
+
+
+
+
+
+
+
+hostingchecker.com
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.336 ms	 	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.299 ms	0.317 ms
+
+			
+3	core1.fra.hetzner.com	213.239.245.218	 	5.063 ms	 	 
+core1.fra.hetzner.com	213.239.245.177	 	4.962 ms	 
+core1.fra.hetzner.com	213.239.245.218	 	5.063 ms
+
+			
+4	 	 	 	*	*	*
+
+			
+5	ae-1.r24.frnkge08.de.bb.gin.ntt.net	129.250.6.206	 	5.174 ms	5.202 ms	5.181 ms
+
+			
+6	ae-4.r25.nycmny01.us.bb.gin.ntt.net	129.250.2.4	 	88.848 ms	87.377 ms	87.372 ms
+
+			
+7	ae-2.r08.nycmny01.us.bb.gin.ntt.net	129.250.6.209	 	88.657 ms	 	 
+ae-2.r07.nycmny01.us.bb.gin.ntt.net	129.250.3.98	 	86.469 ms	 
+ae-2.r08.nycmny01.us.bb.gin.ntt.net	129.250.6.209	 	88.657 ms
+
+			
+8	ce-0-4-0-3.r08.nycmny01.us.ce.gin.ntt.net	157.238.179.154	 	87.191 ms	87.296 ms	85.783 ms
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+
+			
+11	 	 	 	*	*	*
+
+			
+12	 	 	 	*	*	*
+
+			
+13	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+geeksforgeeks.com
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.203 ms	 	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.275 ms	0.272 ms
+
+			
+3	core1.fra.hetzner.com	213.239.245.177	 	4.944 ms	4.938 ms	4.930 ms
+
+			
+4	et-0-0-47.cr10-fra2.ip4.gtt.net	77.67.76.141	 	4.879 ms	4.885 ms	4.880 ms
+
+			
+5	xe-4-0-0.cr1-lon1.ip4.gtt.net	141.136.107.17	 	25.276 ms	25.287 ms	25.284 ms
+
+			
+6	 	 	 	*	*	*
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+10:50 a.m.
+
+
+instagram.com
+
+
+1	 	 	 	*	*	*
+
+			
+2	core21.fsn1.hetzner.com	213.239.245.237	 	0.282 ms	 	 
+core22.fsn1.hetzner.com	213.239.245.241	 	0.769 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.282 ms
+
+			
+3	core12.nbg1.hetzner.com	213.239.245.214	 	2.801 ms	 	 
+core11.nbg1.hetzner.com	213.239.224.9	 	2.815 ms	2.845 ms
+
+			
+4	juniper4.dc2.nbg1.hetzner.com	213.239.203.138	 	2.845 ms	 	 
+juniper4.dc2.nbg1.hetzner.com	213.239.245.26	 	2.886 ms	2.901 ms
+
+			
+5	hbg-b1-link.telia.net	213.248.70.0	 	17.944 ms	17.942 ms	17.933 ms
+
+			
+6	hbg-bb4-link.telia.net	213.155.135.86	 	106.191 ms	 	 
+hbg-bb1-link.telia.net	213.155.135.80	 	186.396 ms	186.387 ms
+
+			
+7	ldn-bb2-link.telia.net	62.115.122.161	 	119.011 ms	 	 
+ldn-bb3-link.telia.net	80.91.249.10	 	106.731 ms	107.258 ms
+
+			
+8	ash-bb3-link.telia.net	80.91.246.68	 	110.314 ms	 	 
+ash-bb4-link.telia.net	62.115.122.61	 	104.507 ms	 
+ash-bb3-link.telia.net	80.91.246.68	 	110.314 ms
+
+			
+9	ash-b1-link.telia.net	213.155.136.39	 	106.131 ms	 	 
+ash-b1-link.telia.net	80.91.248.157	 	110.374 ms	110.205 ms
+
+			
+10	vadata-ic-157234-ash-bb1.c.telia.net	62.115.9.74	 	109.861 ms	 	 
+vadata-ic-157230-ash-bb1.c.telia.net	213.248.94.50	 	105.785 ms	 
+vadata-ic-157229-ash-bb1.c.telia.net	80.239.193.210	 	119.768 ms
+
+			
+11	 	 	 	*	*	*
+
+			
+12	 	 	 	*	*	*
+
+			
+13	 	 	 	*	*	*
+
+			
+14	 	 	 	*	*	*
+
+			
+15	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+
+linkedin.com
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.272 ms	0.292 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.183 ms
+
+			
+3	core11.nbg1.hetzner.com	213.239.224.9	 	2.780 ms	 	 
+core1.fra.hetzner.com	213.239.245.218	 	4.904 ms	 
+core1.fra.hetzner.com	213.239.245.177	 	5.019 ms
+
+			
+4	juniper5.dc2.nbg1.hetzner.com	213.239.229.166	 	2.785 ms	 	 
+juniper4.pop2.fra.hetzner.com	213.239.245.1	 	4.882 ms	 
+juniper5.dc2.nbg1.hetzner.com	213.239.229.162	 	2.795 ms
+
+			
+5	ae5-710.nbg40.core-backbone.com	81.95.15.5	de	3.159 ms	3.163 ms	2.944 ms
+
+			
+6	ae5-2092.nyk10.core-backbone.com	5.56.18.94	de	84.855 ms	84.913 ms	85.567 ms
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+
+			
+11	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+
+
+internshala.com
+
+
+
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.265 ms	0.281 ms	0.275 ms
+
+			
+3	core4.fra.hetzner.com	213.239.245.14	 	4.947 ms	 	 
+core1.fra.hetzner.com	213.239.245.218	 	4.962 ms	 
+core4.fra.hetzner.com	213.239.245.14	 	4.947 ms
+
+			
+4	juniper1.pop1.fra.hetzner.com	213.239.203.238	 	4.945 ms	 	 
+juniper4.pop2.fra.hetzner.com	213.239.245.1	 	4.945 ms	4.939 ms
+
+			
+5	 	 	 	*	*	*
+
+			
+6	 	 	 	*	*	*
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+
+
+
+bmovies.to
+
+1	 	 	 	*	*	*
+
+			
+2	core21.fsn1.hetzner.com	213.239.245.237	 	0.266 ms	0.278 ms	 
+core22.fsn1.hetzner.com	213.239.245.241	 	0.261 ms
+
+			
+3	core4.fra.hetzner.com	213.239.245.14	 	5.001 ms	 	 
+core1.fra.hetzner.com	213.239.245.177	 	4.908 ms	 
+core4.fra.hetzner.com	213.239.245.14	 	5.001 ms
+
+			
+4	core5.fra.hetzner.com	213.239.245.86	 	5.024 ms	 	 
+core5.fra.hetzner.com	213.239.245.126	 	5.164 ms	5.167 ms
+
+			
+5	 	 	 	*	*	*
+
+			
+6	 
+
+
+
+
+
+
+
+
+
+
+
+hostingchecker.com
+
+
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	1.277 ms	1.276 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.191 ms
+
+			
+3	core1.fra.hetzner.com	213.239.245.218	 	5.014 ms	4.949 ms	4.942 ms
+
+			
+4	 	 	 	*	*	*
+
+			
+5	ae-1.r24.frnkge08.de.bb.gin.ntt.net	129.250.6.206	us	5.332 ms	5.326 ms	5.322 ms
+
+			
+6	ae-4.r25.nycmny01.us.bb.gin.ntt.net	129.250.2.4	us	88.218 ms	88.709 ms	88.028 ms
+
+			
+7	ae-2.r07.nycmny01.us.bb.gin.ntt.net	129.250.3.98	us	87.127 ms	 	 
+ae-2.r08.nycmny01.us.bb.gin.ntt.net	129.250.6.209	us	88.663 ms	88.997 ms
+
+			
+8	ce-0-4-0-3.r08.nycmny01.us.ce.gin.ntt.net	157.238.179.154	us	85.725 ms	*	98.561 ms
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+
+			
+11	 	 	 	*	*	*
+
+			
+12	 	 	 	*	*	*
+
+			
+13	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+
+
+geeksforgeeks.com
+
+
+
+1	 	 	 	*	*	*
+
+			
+2	core21.fsn1.hetzner.com	213.239.245.237	 	0.263 ms	 	 
+core22.fsn1.hetzner.com	213.239.245.241	 	0.241 ms	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.263 ms
+
+			
+3	core1.fra.hetzner.com	213.239.245.177	 	5.062 ms	5.064 ms	5.058 ms
+
+			
+4	et-0-0-47.cr10-fra2.ip4.gtt.net	77.67.76.141	de	5.152 ms	5.149 ms	5.141 ms
+
+			
+5	xe-5-0-6.cr1-lon1.ip4.gtt.net	141.136.107.94	de	34.808 ms	34.826 ms	34.820 ms
+
+			
+6	 	 	 	*	*	*
+
+			
+7	 	 	 	*	*	*
+
+			
+8	 	 	 	*	*	*
+
+			
+9	 	 	 	*	*	*
+
+			
+10	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.
+
+
+
+iitg.ac.in
+1	 	 	 	*	*	*
+
+			
+2	core22.fsn1.hetzner.com	213.239.245.241	 	0.276 ms	 	 
+core21.fsn1.hetzner.com	213.239.245.237	 	0.233 ms	 
+core22.fsn1.hetzner.com	213.239.245.241	 	0.276 ms
+
+			
+3	core11.nbg1.hetzner.com	213.239.224.9	 	2.828 ms	 	 
+core12.nbg1.hetzner.com	213.239.224.13	 	2.803 ms	 
+core1.fra.hetzner.com	213.239.245.218	 	4.882 ms
+
+			
+4	juniper4.pop2.fra.hetzner.com	213.239.245.10	 	4.890 ms	4.890 ms	 
+ 		in	
+
+			
+5	ae1-710.fra20.core-backbone.com	80.255.15.121	de	5.847 ms	 	 
+ae5-710.nbg40.core-backbone.com	81.95.15.5	de	2.980 ms	 
+ae1-710.fra20.core-backbone.com	80.255.15.121	de	5.847 ms
+
+			
+6	core-backbone.vodafone.com	5.56.18.82	de	5.725 ms	 	 
+ae1-2003.fra20.core-backbone.com	80.255.14.82	de	6.956 ms	 
+core-backbone.vodafone.com	5.56.18.82	de	5.725 ms
+
+			
+7	ae26-xcr1.mlu.cw.net	195.2.10.121	gb	14.004 ms	14.000 ms	 
+core-backbone.vodafone.com	5.56.18.82	de	6.504 ms
+
+			
+8	voda-india-gw.it.cw.net	195.89.101.186	gb	217.535 ms	 	 
+ae26-xcr1.mlu.cw.net	195.2.10.121	gb	14.744 ms	 
+voda-india-gw.it.cw.net	195.89.101.186	gb	217.535 ms
+
+			
+9	218.301 ms	*	*
+
+			
+10	 	 	 	*	*	*
+
+			
+11	 	 	 	*	*	*
+
+			
+12	 	 	 	*	*	*
+
+			
+13	 	 	 	*	*	*
+
+			
+14	 	 	 	*	*	*
+No reply for 5 hops. Assuming we reached firewall.

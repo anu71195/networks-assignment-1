@@ -1,0 +1,389 @@
+1:00 a.m. - 1:30 a.m.(linkedin.com)
+
+timeout - 7000
+count -20
+ttl - 128
+
+Ping statistics for 108.174.10.10:(64)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 100ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(100)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 100ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(200)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 113ms, Average = 99ms
+
+Ping statistics for 108.174.10.10:(300)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 101ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(400)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 102ms, Average = 98ms
+
+Ping statistics for 108.174.10.10:(500)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 105ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(600)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 104ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(700)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 98ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(800)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 106ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(900)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 109ms, Average = 98ms
+
+Ping statistics for 108.174.10.10:(1000)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 102ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(1100)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 101ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(1200)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 98ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(1300)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 102ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(1400)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 99ms, Average = 97ms
+
+Ping statistics for 108.174.10.10:(1500)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 106ms, Average = 104ms
+
+Ping statistics for 108.174.10.10:(1600)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 107ms, Average = 104ms
+
+Ping statistics for 108.174.10.10:(1700)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 128ms, Average = 106ms
+
+Ping statistics for 108.174.10.10:(1800)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 111ms, Average = 105ms
+
+Ping statistics for 108.174.10.10:(1900)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 107ms, Average = 104ms
+
+Ping statistics for 108.174.10.10:(2000)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 107ms, Average = 104ms
+
+Ping statistics for 108.174.10.10:(2048)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 126ms, Average = 106ms
+
+
+11:30-12:00
+
+64
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 119ms, Average = 116ms
+
+100
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 128ms, Average = 117ms
+
+200
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 133ms, Average = 118ms
+
+300
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 121ms, Average = 116ms
+
+400
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 120ms, Average = 117ms
+
+500
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 136ms, Average = 118ms
+
+600
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 122ms, Average = 116ms
+
+700
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 140ms, Average = 117ms
+
+800
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 117ms, Average = 116ms
+
+900
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 122ms, Average = 116ms
+
+1000
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 152ms, Average = 118ms
+
+1100
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 123ms, Average = 116ms
+
+1200
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 119ms, Average = 116ms
+
+
+1300
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 126ms, Average = 117ms
+
+1400
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 132ms, Average = 117ms
+
+
+1500
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 117ms, Average = 116ms
+
+
+1600
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 121ms, Average = 117ms
+
+1700
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 121ms, Average = 117ms
+
+1800
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 126ms, Average = 117ms
+
+1900
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 119ms, Average = 116ms
+
+2000
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 123ms, Average = 117ms
+
+2048
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 126ms, Average = 117ms
+
+
+7:00-7:30 p.m.
+
+64
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 160ms, Average = 108ms
+
+100
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 134ms, Average = 104ms
+
+200
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 157ms, Average = 100ms
+
+300
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 130ms, Average = 106ms
+
+400
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 107ms, Average = 98ms
+
+500
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 168ms, Average = 107ms
+
+600
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 171ms, Average = 107ms
+
+700
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 163ms, Average = 107ms
+
+800
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 145ms, Average = 102ms
+
+900
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 145ms, Average = 102ms
+
+1000
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 147ms, Average = 104ms
+
+1100
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 163ms, Average = 104ms
+
+1200
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 150ms, Average = 102ms
+
+1300
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 105ms, Average = 98ms
+
+1400
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 143ms, Average = 103ms
+
+1500
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 153ms, Average = 111ms
+
+1600
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 151ms, Average = 108ms
+
+1700
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 154ms, Average = 110ms
+
+1800
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 132ms, Average = 109ms
+
+1900
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 162ms, Average = 112ms
+
+2000
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 160ms, Average = 111ms
+
+2048
+Ping statistics for 108.174.10.10:
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 104ms, Maximum = 148ms, Average = 111ms
+

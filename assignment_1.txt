@@ -1,0 +1,989 @@
+1]
+
+a)
+ping -c [count] [target]
+
+b)
+ping -i [interval] [target]
+
+c)
+i) ping -l [preload][target]
+ii) 3 packets
+
+d)
+i)ping -s [packet_size] [target]
+ii)72 bytes
+
+
+
+
+
+
+
+
+
+2]
+12:30-1 p.m.
+Ping statistics for 34.200.158.81:(instagram.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 105ms, Maximum = 122ms, Average = 106ms
+Datacenter: Amazon.com
+Server IP: 52.6.73.152
+Location: United States of America
+City: Ashburn
+
+Ping statistics for 108.174.10.10:(linkedin.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 102ms, Average = 97ms
+Datacenter: LinkedIn Corporation
+Server IP: 108.174.10.10
+Location: United States of America
+City: Tacoma
+
+Ping statistics for 13.127.62.181:(internshala.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 126ms, Maximum = 136ms, Average = 128ms
+Datacenter: Amazon.com
+Server IP: 35.154.211.225
+Location: India
+City: Mumbai
+
+Ping statistics for 104.31.16.3:(bmovies.to)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 0ms, Maximum = 8ms, Average = 0ms
+Datacenter: Cloudflare
+Server IP: 104.31.17.3
+Location: Canada
+City: Montreal
+
+Ping statistics for 104.236.225.127:(hostingchecker.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 87ms, Maximum = 90ms, Average = 87ms
+Datacenter: Digital Ocean
+Server IP: 104.236.225.127
+Location: United States of America
+City: San Francisco
+
+
+
+
+11:30 a.m. - 12:00 a.m.
+
+Ping statistics for 52.22.53.128:(instagram.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 117ms, Maximum = 121ms, Average = 117ms
+Datacenter: Amazon.com
+Server IP: 54.87.186.30
+Location: United States of America
+City: Ashburn
+
+Ping statistics for 108.174.10.10:(linkedin.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 116ms, Maximum = 122ms, Average = 116ms
+Datacenter: LinkedIn Corporation
+Server IP: 108.174.10.10
+Location: United States of America
+City: Tacoma
+
+Ping statistics for 35.154.211.225:(internshala.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 125ms, Maximum = 133ms, Average = 125ms
+Datacenter: Amazon.com
+Server IP: 13.127.62.181
+Location: India
+City: Mumbai
+
+
+
+Ping statistics for 104.31.17.3:(bmovies.to)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 0ms, Maximum = 34ms, Average = 1ms
+Datacenter: Cloudflare
+Server IP: 104.31.16.3
+Location: Canada
+City: Montreal
+
+
+Ping statistics for 104.236.225.127:(hostingchecker.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 87ms, Maximum = 90ms, Average = 87ms
+Datacenter: Digital Ocean
+Server IP: 104.236.225.127
+Location: United States of America
+City: San Francisco
+
+
+
+
+6:00 - 6:30 a.m.
+
+Ping statistics for 54.236.156.191:(instagram.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 105ms, Maximum = 138ms, Average = 108ms
+Datacenter: Amazon.com
+Server IP: 34.204.20.95
+Location: United States of America
+City: Ashburn
+
+
+Ping statistics for 108.174.10.10:(linkedin.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 97ms, Maximum = 152ms, Average = 101ms
+Datacenter: LinkedIn Corporation
+Server IP: 108.174.10.10
+Location: United States of America
+City: Tacoma
+
+Ping statistics for 35.154.211.225:(internshala.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 125ms, Maximum = 148ms, Average = 126ms
+Datacenter: Amazon.com
+Server IP: 35.154.211.225
+Location: India
+City: Mumbai
+
+Ping statistics for 104.31.17.3:(bmovies.to)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 0ms, Maximum = 19ms, Average = 1ms
+Datacenter: Cloudflare
+Server IP: 104.31.17.3
+Location: Canada
+City: Montreal
+
+Ping statistics for 104.236.225.127:(hostingchecker.com)
+Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 87ms, Maximum = 116ms, Average = 91ms
+Datacenter: Digital Ocean
+Server IP: 104.236.225.127
+Location: United States of America
+City: San Francisco
+
+
+
+
+iitg.ac.in
+8:00 p.m.
+
+packetsize(1400)
+Ping statistics for 14.139.196.22:
+Packets: Sent = 20, Received = 16, Lost = 4 (20% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 183ms, Maximum = 185ms, Average = 183ms
+Datacenter: NKN EDGE Network
+Server IP: 14.139.196.22
+Location: India
+City: Guwahati
+
+
+
+12:30
+Ping statistics for 14.139.196.22:
+Packets: Sent = 20, Received = 17, Lost = 3 (15% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 184ms, Maximum = 224ms, Average = 191ms
+Datacenter: NKN EDGE Network
+Server IP: 14.139.196.22
+Location: India
+City: Guwahati
+
+
+
+2:00p.m.
+Ping statistics for 14.139.196.22:
+Packets: Sent = 20, Received = 19, Lost = 1 (5% loss),
+Approximate round trip times in milli-seconds:
+Minimum = 182ms, Maximum = 184ms, Average = 182ms
+
+
+
+
+In the previous subsections the number of ping packets sent in each experiment was 1000 and all the ping packets sent contained 56-byte data. We saw that different connections exhibited different WRTT and packet loss patterns for the same amount of traffic. We also saw that those patterns could be interpreted as being caused by the packet buffering and queueing at an intermediate router. If we assume that the router that is responsible for the appearance of a particular pattern has a fixed-size buffer, then the larger the size of the probe packets the fewer the packets that can be queued in the buffer before the buffer fills up. Thus large packets more easily fill the buffer than small packets, and cause packet drop. Furthermore, large packets take longer to be received, queued, and transmitted than small packets. Thus large packets are likely to exhibit larger WRTTs than small packets. Consequently, probe packets of different size will produce different patterns, even for the same connection. In this section we look at this problem.
+
+
+
+Packet loss is typically caused by network congestion. When content arrives for a sustained period at a given router or network segment at a rate greater than it is possible to send through, there is no other option than to drop packets.[1] If a single router or link is constraining the capacity of the complete travel path or of network travel in general, it is known as a bottleneck. In some cases, packets are intentionally dropped by routing routines.
+
+If you mean packet loss as reported by ping, then simply blocking ICMP packets can do that, while other services will work fine. It is not unusual for firewall to be set up to block anything but the port traffic for the services offered, so a web server for example may drop all ping packets and you get 100% packet loss
+
+ICMP (Internet Control Message Protocol) is an error-reporting protocol network devices like routers use to generate error messages to the source IP address when network problems prevent delivery of IP packets
+
+
+
+Average RTTs:-
+
+
+
+
+
+
+
+Along  a given route, RTT usually increases with increasing hop count. However,  different  routes  may  have  quite  different relationships between RTT and hops count.  Physically short hops  will  contribute  far  less  propagation  delay  than physically long hops.  But by the data it is weakly connected(explanation).
+
+
+The maximum transmission unit (MTU) is the size of the largest network layer protocol data unit that can be communicated in a single network transaction.[1]:25 Fixed MTU parameters usually appear in association with a communications interface or standard.Larger MTU is associated with reduced overhead. Smaller values can reduce network delay. In many cases MTU is dependent on underlying network capabilities and must be or should be adjusted manually or automatically so as not to exceed these capabilities.
+A larger MTU brings greater efficiency because each network packet carries more user data while protocol overheads, such as headers or underlying per-packet delays, remain fixed; the resulting higher efficiency means an improvement in bulk protocol throughput. A larger MTU also means processing of fewer packets for the same amount of data. In some systems, per-packet-processing can be a critical performance limitation.However, this gain is not without a downside. Large packets occupy a slow link for more time than a smaller packet, causing greater delays to subsequent packets, and increasing lag and minimum latency. For example, a 1500-byte packet, the largest allowed by Ethernet at the network layer (and hence over most of the Internet), ties up a 14.4k modem for about one second. Large packets are also problematic in the presence of communications errors. If no forward error correction is used, corruption of a single bit in a packet requires that the entire packet be retransmitted, which can be very costly. At a given bit error rate, larger packets are more likely to be corrupt. Their greater payload makes retransmissions of larger packets take longer. 
+
+
+
+
+
+The rtt around noon is very high as compared to the 1:00 at night or 7 at evening ( mostly due to congestion)---more traffic.
+
+3]
+ -n     Numeric output only.  No attempt will be made to lookup symbolic
+              names for host addresses.
+
+ -p pattern
+              You may specify up to 16 ``pad'' bytes to fill  out  the  packet
+              you send.  This is useful for diagnosing data-dependent problems
+              in a network.  For example, -p ff will cause the sent packet  to
+              be filled with all ones.
+
+
+4]
+
+enp7s0    Link encap:Ethernet HWaddr 20:47:47:c6:b6:a5
+          inet addr:10.0.2.77  Bcast:10.0.7.255  Mask:255.255.248.0
+          inet6 addr: fe80::4f25:231e:e4cc:9b41/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:6585697 errors:0 dropped:4202 overruns:0 frame:0
+          TX packets:3271321 errors:88 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:5502134120 (5.5 GB)  TX bytes:1253595899 (1.2 GB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:375136 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:375136 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1 
+          RX bytes:25090966 (25.0 MB)  TX bytes:25090966 (25.0 MB)
+
+wlp6s0    Link encap:Ethernet  HWaddr e4:f8:9c:99:b5:1f  
+          inet addr:10.42.0.1  Bcast:10.42.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::e6f8:9cff:fe99:b51f/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:1317422 errors:0 dropped:65 overruns:0 frame:0
+          TX packets:1439517 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:1075037055 (1.0 GB)  TX bytes:1253590297 (1.2 GB)
+
+
+The command ifconfig shows details of the network interfaces that are up and running in your computer. ifconfig is used to configure, or view the configuration of, a network interface.ifconfig stands for "interface configuration" It is used to view and change the configuration of the network interfaces on your system. Here, enp7s0, lo and wlp6s0 are the names of the active network interfaces on the system. lo is the loopback interface. This is a special network interface that the system uses to communicate with itself.
+
+Link encap:Ethernet - This denotes that the interface is an Ethernet related device.
+ HWaddr 20:47:47:c6:b6:a5   - This is the hardware address or MAC address which is unique to each Ethernet card which is manufactured. Usually, the first half part of this address will contain the manufacturer code which is common for all the Ethernet cards manufactured by the same manufacturer and the rest will denote the device Id which should not be the same for any two devices manufactured at the same place.
+
+inet addr - indicates the machine IP address
+
+Bcast - denotes the broadcast address
+
+Mask - is the network mask which we passed using the netmask option....A netmask is a 32-bit mask used to divide an IP address into subnets and specify the network's available hosts. In a netmask, two bits are always automatically assigned. For example, in 255.255.225.0, "0" is the assigned network address. In 255.255.255.255, "255" is the assigned broadcast address. The 0 and 255 are always assigned and cannot be used.
+
+For unicast addresses, two scopes are defined: link-local and global.
+Link-local addresses and the loopback address have link-local scope, which means they can only be used on a single directly attached network (link). All other addresses (including Unique local addresses) have global (or universal) scope, which means they are (or could be) globally routable, and can be used to connect to addresses with global scope anywhere, or to addresses with link-local scope on the directly attached network.[note 1]
+
+IPv6 addresses are shown because IPv6 is enabled on network interfaces by default.
+UP - This flag indicates that the kernel modules related to the Ethernet interface has been loaded.
+
+BROADCAST - Denotes that the Ethernet device supports broadcasting - a necessary characteristic to obtain IP address via DHCP.
+RUNNING - The interface is ready to accept data.
+MULTICAST - This indicates that the Ethernet interface supports multicasting. Multicasting can be best understood by relating to a radio station. Multiple devices can capture the same signal from the radio station but if and only if they tune to a particular frequency. Multicast allows a source to send a packet(s) to multiple machines as long as the machines are watching out for that packet.
+MTU - short form for Maximum Transmission Unit is the size of each packet received by the Ethernet card. The value of MTU for all Ethernet devices by default is set to 1500. Though you can change the value by passing the necessary option to the ifconfig command. Setting this to a higher value could hazard packet fragmentation or buffer overflows. Do compare the MTU value of your Ethernet device and the loopback device and see if they are same or different. Usually, the loopback device will have a larger packet length.
+Metric - This option can take a value of 0,1,2,3... with the lower the value the more leverage it has. The value of this property decides the priority of the device. This parameter has significance only while routing packets. For example, if you have two Ethernet cards and you want to forcibly make your machine use one card over the other in sending the data. Then you can set the Metric value of the Ethernet card which you favor lower than that of the other Ethernet card. I am told that in Linux, setting this value using ifconfig has no effect on the priority of the card being chosen as Linux uses the Metric value in its routing table to decide the priority.
+RX Packets, TX Packets - The next two lines show the total number of packets received and transmitted respectively. As you can see in the output, the total errors are 0, no packets are dropped and there are no overruns. If you find the errors or dropped value greater than zero, then it could mean that the Ethernet device is failing or there is some congestion in your network.
+collisions - The value of this field should ideally be 0. If it has a value greater than 0, it could mean that the packets are colliding while traversing your network - a sure sign of network congestion.
+txqueuelen - This denotes the length of the transmit queue of the device. You usually set it to smaller values for slower devices with a high latency such as modem links and ISDN.
+RX Bytes, TX Bytes - These indicate the total amount of data that has passed through the Ethernet interface either way. Taking the above example, I can fairly assume that I have used up 31.6 MB in downloading and 2.5 MB uploading which is a total of 37.1 MB of bandwidth. As long as there is some network traffic being generated via the Ethernet device, both the RX and TX bytes will go on increasing.
+Interrupt - From the data, I come to know that my network interface card is using the interrupt number 9. This is usually set by the system.
+
+
+
+
+ifconfig -a:-      display  all  interfaces  which are currently available, even if  down
+
+ifconfig -s     display a short list (like netstat -i)
+
+Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp7s0     1500 0   2917157      0   2805 0       1089910     41      0      0 BMRU
+lo        65536 0    292562      0      0 0        292562      0      0      0 LRU
+wlp6s0     1500 0    630500      0     12 0        968375      0      0      0 BMRU
+
+
+Iface=interface
+MTU - maximum transmission Unit
+Met=Metric
+RX-OK= packets which are successfully received
+RX-ERR=RX error
+RX-DRP=RX dropped
+RX-OVR=RX overruns
+
+TX-OK= packets which are successfully transmitted
+TX-ERR=TX error
+TX-DRP=TX dropped
+TX-OVR=TX overruns
+
+flg=flag:- The flag values printed by ifconfig correspond more or less to the names of its command line options
+
+
+B = A broadcast address has been set.
+L = This interface is a loopback device.
+M = Supports multicast
+O = ARP is turned off for this interface.
+P = This is a point-to-point connection.
+R = Interface is running.
+U = Interface is up.
+
+
+
+
+ifconfig       -v     be more verbose for some error conditions
+
+
+
+route
+
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+default         10.0.0.254      0.0.0.0         UG    100    0        0 enp7s0
+10.0.0.0        *               255.255.248.0   U     100    0        0 enp7s0
+10.42.0.0       *               255.255.255.0   U     600    0        0 wlp6s0
+link-local      *               255.255.0.0     U     1000   0        0 enp7s0
+
+
+10.0.0.0        *               255.255.248.0   U     100    0        0 enp7s0
+This says that any packet with a destination of 10.0.0.0 through 10.0.0.255 will be sent out enp7s0 with using a gateway 10.0.0.254
+
+10.42.0.0       *               255.255.255.0   U     600    0        0 wlp6s0
+This says that any packet with a destination of 10.42.0.0 through 10.42.0.255 will be sent out wlp6s0s0 without using a gateway
+
+default         10.0.0.254      0.0.0.0         UG    100    0        0 enp7s0
+This says that any packet to a destination without another route will be sent out enp7s0, using 10.0.0.254 as a gateway.
+
+
+link-local      *               255.255.0.0     U     1000   0        0 enp7s0
+This says that any packet with a link-local address will be sent out interface enp7s0 with no gateway.
+
+
+Destination = the address of the network that the packet is headed to
+
+The "default" means that if the destination is not found in any of the other rules than use this rule.
+
+	
+Destination = the address of the network that the packet is headed to
+The "default" means that if the destination is not found in any of the other rules than use this rule.
+
+Genmask = The subnet mask
+If there is more than one address in the routing table that works for the outgoing packet, the rule with the higher subnet mask will be used. If those are tied, then metric comes into play but that will be different based on what protocol is being used.
+
+Interface = On-board connection
+For example, the laptop I am on currently has three interfaces:
+
+Ethernet card
+Wireless card
+Bluetooth
+
+Gateway = Next hop
+This is where the packet will be sent if the destination is not on the same network as the sender.
+
+If the value is in "*" or "On-link" or the address of the current device... these all mean the same thing. It means that the packet is addressed to a device that is directly reachable by the current host. In other words, they're on the same network so the gateway won't actually be used because the host will know the data link layer (MAC) address of the destination and be able to send it directly there. These values are just used for human readability in this case.
+
+As for the process of sending a packet:
+
+Destination and Genmask are used to figure out which rules are a match for the destination address of the outgoing packet.
+Interface is used to decide what communication device on the machine to send it through.
+Gateway is the address of the device on the same network that it will send the packet to (through).
+
+The Ref column of netstat's output shows the number of references to this route, that is, how many other routes (e.g. through gateways) rely on the presence of this route
+
+The MSS column tells us what the path MTU discovery has determined for a maximum segment size for the route to this destination. By discovering the proper segment size for a route and caching this information, we can make most efficient use of bandwidth to the destination, without incurring the overhead of packet fragmentation enroute.
+
+Genmask = The subnet mask
+
+Metric - This option can take a value of 0,1,2,3... with the lower the value the more leverage it has. The value of this property decides the priority of the device. This parameter has significance only while routing packets. For example, if you have two Ethernet cards and you want to forcibly make your machine use one card over the other in sending the data. Then you can set the Metric value of the Ethernet card which you favor lower than that of the other Ethernet card. I am told that in Linux, setting this value using ifconfig has no effect on the priority of the card being chosen as Linux uses the Metric value in its routing table to decide the priority.
+
+
+ The flag 'U' indicates that this entry is up while the flag 'G' indicates that this entry is not a direct entry i.e. the destination indicated in this route entry is not on the same network. A list of flags is given below .
+A Receive all multicast at this interface.
+B OK broadcast.
+D Debugging ON. 
+M Promiscuous Mode.
+O No ARP at this interface.
+P P2P connection at this interface. 
+R Interface is running. 
+U Interface is up. 
+G Not a direct entry.
+
+
+       -A family
+              use the specified address family (eg `inet'; use `route  --help'
+              for a full list).
+	route -A inet 
+
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+default         10.0.0.254      0.0.0.0         UG    100    0        0 enp7s0
+10.0.0.0        *               255.255.248.0   U     100    0        0 enp7s0
+10.42.0.0       *               255.255.255.0   U     600    0        0 wlp6s0
+link-local      *               255.255.0.0     U     1000   0        0 enp7s0
+
+
+
+       -F     operate  on the kernel's FIB (Forwarding Information Base) rout‐
+              ing table.  This is the default.
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+default         10.0.0.254      0.0.0.0         UG    100    0        0 enp7s0
+10.0.0.0        *               255.255.248.0   U     100    0        0 enp7s0
+10.42.0.0       *               255.255.255.0   U     600    0        0 wlp6s0
+link-local      *               255.255.0.0     U     1000   0        0 enp7s0
+
+
+       -C     operate on the kernel's routing cache.
+
+       -v     select verbose operation.
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+default         10.0.0.254      0.0.0.0         UG    100    0        0 enp7s0
+10.0.0.0        *               255.255.248.0   U     100    0        0 enp7s0
+10.42.0.0       *               255.255.255.0   U     600    0        0 wlp6s0
+link-local      *               255.255.0.0     U     1000   0        0 enp7s0
+
+
+       -n     show numerical addresses instead of trying to determine symbolic
+              host  names.  This  is useful if you are trying to determine why
+              the route to your nameserver has vanished.
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+0.0.0.0         10.0.0.254      0.0.0.0         UG    100    0        0 enp7s0
+10.0.0.0        0.0.0.0         255.255.248.0   U     100    0        0 enp7s0
+10.42.0.0       0.0.0.0         255.255.255.0   U     600    0        0 wlp6s0
+169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 enp7s0
+
+
+
+       -e     use netstat(8)-format for displaying  the  routing  table.   -ee
+              will  generate  a  very  long  line with all parameters from the
+              routing table.
+
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+default         10.0.0.254      0.0.0.0         UG        0 0          0 enp7s0
+10.0.0.0        *               255.255.248.0   U         0 0          0 enp7s0
+10.42.0.0       *               255.255.255.0   U         0 0          0 wlp6s0
+link-local      *               255.255.0.0     U         0 0          0 enp7s0
+
+
+  
+  
+
+
+
+
+
+5]
+
+
+netstat (network statistics) is a command-line network utility tool that displays network connections for the Transmission Control Protocol (both incoming and outgoing), routing tables, and a number of network interface (network interface controller or software-defined network interface) and network protocol statistics.It is used for finding problems in the network and to determine the amount of traffic on the network as a performance measurement.[1] On Linux this program is mostly obsolete, although still included in many distributions.Netstat is a common command line TCP/IP networking utility available in most versions of Windows, Linux, UNIX and other operating systems. Netstat provides information and statistics about protocols in use and current TCP/IP network connections. (The name derives from the words network and statistics.)
+
+netstat -atnp | grep ESTA
+
+
+Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 10.0.2.77:59246         202.141.80.24:3128      ESTABLISHED 2521/chrome     
+tcp       81      0 10.0.2.77:59262         202.141.80.24:3128      ESTABLISHED 2521/chrome     
+tcp        0      0 10.0.2.77:59264         202.141.80.24:3128      ESTABLISHED 2521/chrome     
+tcp        0      0 10.0.2.77:59148         202.141.80.24:3128      ESTABLISHED 2521/chrome     
+tcp        0      0 10.0.2.77:59248         202.141.80.24:3128      ESTABLISHED 2521/chrome     
+tcp        0      0 10.0.2.77:59096         202.141.80.24:3128      ESTABLISHED 2521/chrome     
+tcp        0      0 10.0.2.77:59260         202.141.80.24:3128      ESTABLISHED 2521/chrome     
+
+
+The “Proto” column tell us if the socket listed is TCP or UDP. Those are network protocols. TCP makes reliable connections but slows down dramatically if the network quality is bad. UDP stays fast but may lose a few packets or deliver them in the wrong order. TCP connections are used for browsing the web and downloading files. UDP connections are used by certain fast-paced computer games and sometimes by live streams.
+The “Recv-Q” and “Send-Q” columns tell us how much data is in the queue for that socket, waiting to be read (Recv-Q) or sent (Send-Q). In short: if this is 0, everything’s ok, if there are non-zero values anywhere, there may be trouble. If you look closely at the example, you’ll see that two sockets have a Recv-Q with 38 unread bytes in them. We’ll look into those connections once we know what the other columns mean.
+The “Local Address” and “Foreign Address” columns tell to which hosts and ports the listed sockets are connected. The local end is always on the computer on which you’re running netstat (in the example, the computer is called “Trafalgar”), and the foreign end is about the other computer (could be somewhere in the local network or somewhere on the internet). If you look closely at the example, you’ll see that two sockets have localhost as the Foreign Address. Strange, right? It means the computer is talking to itself over the network, so to speak. We’ll look into the meaning of that once we know what all the columns mean.
+The “State” column tells in which state the listed sockets are. The TCP protocol defines states, including “LISTEN” (wait for some external computer to contact us) and “ESTABLISHED” (ready for communication). The stranger among these is the “CLOSE WAIT” state shown by two sockets. This means that the foreign or remote machine has already closed the connection, but that the local program somehow hasn’t followed suit. Note that the two “CLOSE WAIT” sockets are also the ones with 38 unread bytes in the Recv-Q. Strange states and non-empty queues often go together.
+The “PID/Program name” column tells us which pid owns the listed socket and the name of the program running in the process with that pid. So you can see which programs are using the network and to whom they are connecting.
+
+
+netstat -r :-Displays the contents of the IP routing table. (This is equivalent to the route print command under Windows.)
+
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags   MSS Window  irtt Iface
+default         10.0.0.254      0.0.0.0         UG        0 0          0 enp7s0
+10.0.0.0        *               255.255.248.0   U         0 0          0 enp7s0
+10.42.0.0       *               255.255.255.0   U         0 0          0 wlp6s0
+link-local      *               255.255.0.0     U         0 0          0 enp7s0
+
+
+
+
+(for explanation refer questoin 4)
+
+
+
+netstat -i
+
+Kernel Interface table
+Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp7s0     1500 0   6658756      0   4246 0       3298674     99      0      0 BMRU
+lo        65536 0    380660      0      0 0        380660      0      0      0 LRU
+wlp6s0     1500 0   1328841      0     65 0       1466359      0      0      0 BMRU
+
+
+
+
+
+
+
+
+
+Kernel Interface table
+Iface   MTU Met   RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+enp7s0     1500 0   4151947      0   3337 0       1629698     45      0      0 BMRU
+lo        65536 0    343327      0      0 0        343327      0      0      0 LRU
+wlp6s0     1500 0   1102957      0     16 0       1639886      0      0      0 BMRU
+
+
+from this the answer is 3
+
+
+
+The loopback address (lo0) has several uses, depending on the particular Junos feature being configured. It can perform the following functions:
+
+Device identification—The loopback interface is used to identify the device. While any interface address can be used to determine if the device is online, the loopback address is the preferred method. Whereas interfaces might be removed or addresses changed based on network topology changes, the loopback address never changes.
+When you ping an individual interface address, the results do not always indicate the health of the device. For example, a subnet mismatch in the configuration of two endpoints on a point-to-point link makes the link appear to be inoperable. Pinging the interface to determine whether the device is online provides a misleading result. An interface might be unavailable because of a problem unrelated to the device's configuration or operation.
+
+Routing information—The loopback address is used by protocols such as OSPF to determine protocol-specific properties for the device or network. Further, some commands such as ping mpls require a loopback address to function correctly.
+Packet filtering—Stateless firewall filters can be applied to the loopback address to filter packets originating from, or destined for, the Routing Engine.
+The Internet Protocol (IP) specifies a loopback network with the (IPv4) address 127.0.0.0/8. Most IP implementations support a loopback interface (lo0) to represent the loopback facility. Any traffic that a computer program sends on the loopback network is addressed to the same computer. The most commonly used IP address on the loopback network is 127.0.0.1 for IPv4 and ::1 for IPv6. The standard domain name for the address is localhost.
+
+The device also includes an internal loopback address (lo0.16384). The internal loopback address is a particular instance of the loopback address with the logical unit number 16384. Junos OS creates the loopback interface for the internal routing instance. This interface prevents any filter on lo0.0 from disrupting internal traffic.
+
+
+
+6]
+
+4:00 p.m.
+instagram.com-15
+linkedin.com-11
+internshala.com-9
+bmovies.to-6
+hostingchecker.com-13
+geeksforgeeks.com-10
+iitg.ac.in-14
+
+8:50 p.m.
+instagram.com-15
+linkedin.com-11
+internshala.com-9
+bmovies.to-6
+hostingchecker.com-13
+geeksforgeeks.com-10
+iitg.ac.in-14
+
+10:50a.m.
+instagram.com-15
+linkedin.com-11
+internshala.com-9
+bmovies.to-6
+hostingchecker.com-13
+geeksforgeeks.com-10
+iitg.ac.in-14
+
+
+2) 	213.239.245.237	-hostingchecker, iitg.ac.in, internshala,linkedin,instagram
+	213.239.245.241	-instagram,linkedin,iitg.ac.in,
+
+3)	213.239.245.218-hostingchecker.com, iitg.ac.in, linkedin.com
+	213.239.245.177	-linkedin.com, internshala.com
+	213.239.224.9-instagram.com, iitg.ac.in
+	213.239.224.13-instagram,iitg.ac.in
+	213.239.245.221-instagram,linkedin
+
+4)	213.239.245.10	-internshala.com, iitg.ac.in, linkedin.com
+
+5)	81.95.15.5-linkedin.com, iitg.ac.in
+	80.255.15.121-linkedin.com, iitg.ac.in
+
+
+ash-bb3-link.telia.net	80.91.246.68 8:50
+62.115.122.61   400 pm
+
+7]
+
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.132              ether   7c:78:7e:4e:82:20   C                     wlp6s0
+10.42.0.40                       (incomplete)                              wlp6s0
+10.42.0.242                      (incomplete)                              wlp6s0
+10.42.0.103              ether   18:dc:56:f0:6c:53   C                     wlp6s0
+10.0.2.19                ether   14:58:d0:c1:26:9d   C                     enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+10.42.0.51                       (incomplete)                              wlp6s0
+10.0.2.76                ether   70:4d:7b:bd:2e:99   C                     enp7s0
+10.0.2.68                ether   d0:bf:9c:0f:7f:18   C                     enp7s0
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.42.0.100              ether   40:4d:7f:86:e6:f7   C                     wlp6s0
+10.42.0.116              ether   34:68:95:ae:7d:f1   C                     wlp6s0
+
+   
+
+
+Address Resolution Protocol (ARP) is a protocol for mapping an Internet Protocol address (IP address) to a physical machine address that is recognized in the local network. For example, in IP Version 4, the most common level of IP in use today, an address is 32 bits long. In an Ethernet local area network, however, addresses for attached devices are 48 bits long. (The physical machine address is also known as a Media Access Control or MAC address.) A table, usually called the ARP cache, is used to maintain a correlation between each MAC address and its corresponding IP address. ARP provides the protocol rules for making this correlation and providing address conversion in both directions.
+
+
+incomplete -device has sent an ARP for the IP in the list (71.169.191.209) and it has not received a reply.
+
+Address tells the IP host of the address with which some exchange of packets like pinging or transfer of data has happened
+HWtype- tells the hardware type of the host IP. type is usually ether (Ethernet), which is the default, but may be ax25 (AX.25 packet radio), arcnet (ARCnet), pronet (PROnet), or netrom (NET/ROM).
+HWaddress - tells the MAC address of the IP address
+
+ARP cache entries may be marked with the following flags: C (complete), M (permanent), and P (publish). 
+The flags indicate if the mac address has been learned, manually set, published (announced by another node than the requested) or is incomplete.
+It is called a subnet mask because it is used to identify network address of an IP address
+Iface tells the network associated with that i.p. address
+
+
+
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.0.2.19                ether   14:58:d0:c1:26:9d   C                     enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+
+
+
+
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.132                      (incomplete)                              wlp6s0
+10.42.0.40                       (incomplete)                              wlp6s0
+10.42.0.242                      (incomplete)                              wlp6s0
+10.42.0.103                      (incomplete)                              wlp6s0
+10.42.0.42                       (incomplete)                              wlp6s0
+10.0.2.19                ether   14:58:d0:c1:26:9d   C                     enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+10.42.0.43                       (incomplete)                              wlp6s0
+10.42.0.51                       (incomplete)                              wlp6s0
+10.0.2.76                ether   70:4d:7b:bd:2e:99   C                     enp7s0
+10.0.2.68                ether   d0:bf:9c:0f:7f:18   C                     enp7s0
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.42.0.100              ether   40:4d:7f:86:e6:f7   C                     wlp6s0
+10.42.0.116              ether   34:68:95:ae:7d:f1   C                     wlp6s0
+
+
+sudo arp -d 10.0.2.19
+
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.132                      (incomplete)                              wlp6s0
+10.42.0.40                       (incomplete)                              wlp6s0
+10.42.0.242                      (incomplete)                              wlp6s0
+10.42.0.103                      (incomplete)                              wlp6s0
+10.42.0.42                       (incomplete)                              wlp6s0
+10.0.2.19                        (incomplete)                              enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+10.42.0.43                       (incomplete)                              wlp6s0
+10.42.0.51                       (incomplete)                              wlp6s0
+10.0.2.76                ether   70:4d:7b:bd:2e:99   C                     enp7s0
+10.0.2.68                ether   d0:bf:9c:0f:7f:18   C                     enp7s0
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.42.0.100              ether   40:4d:7f:86:e6:f7   C                     wlp6s0
+10.42.0.116              ether   34:68:95:ae:7d:f1   C                     wlp6s0
+
+
+Removes the MAC address
+
+
+ arp -s 10.0.2.19 14:58:d0:c1:26:9d
+
+sudo arp -s 10.0.2.19 a0:8c:fd:22:51:b0
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.0.2.58                ether   94:57:a5:da:69:e8   C                     enp7s0
+10.0.2.19                        (incomplete)                              enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+
+
+
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.0.2.58                ether   94:57:a5:da:69:e8   C                     enp7s0
+10.0.2.19                ether   a0:8c:fd:22:51:b0   CM                    enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+
+
+
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.132                      (incomplete)                              wlp6s0
+10.42.0.40                       (incomplete)                              wlp6s0
+10.42.0.242                      (incomplete)                              wlp6s0
+10.42.0.103                      (incomplete)                              wlp6s0
+10.42.0.42                       (incomplete)                              wlp6s0
+10.0.2.19                ether   14:58:d0:c1:26:9d   CM                    enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+10.42.0.43                       (incomplete)                              wlp6s0
+10.42.0.51                       (incomplete)                              wlp6s0
+10.0.2.76                ether   70:4d:7b:bd:2e:99   C                     enp7s0
+10.0.2.68                ether   d0:bf:9c:0f:7f:18   C                     enp7s0
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.42.0.100              ether   40:4d:7f:86:e6:f7   C                     wlp6s0
+10.42.0.116              ether   34:68:95:ae:7d:f1   C                     wlp6s0
+
+
+mac address is set for that
+
+sudo arp -s 10.0.2.19 a0:8c:fd:22:51:b0
+sudo arp -s 10.0.2.99 a0:8c:fd:22:51:b0
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.132                      (incomplete)                              wlp6s0
+10.42.0.40                       (incomplete)                              wlp6s0
+10.42.0.242                      (incomplete)                              wlp6s0
+10.42.0.103                      (incomplete)                              wlp6s0
+10.42.0.42                       (incomplete)                              wlp6s0
+10.0.2.19                ether   a0:8c:fd:22:51:b0   CM                    enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+10.42.0.43                       (incomplete)                              wlp6s0
+10.42.0.51                       (incomplete)                              wlp6s0
+10.0.2.76                ether   70:4d:7b:bd:2e:99   C                     enp7s0
+10.0.2.68                ether   d0:bf:9c:0f:7f:18   C                     enp7s0
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.0.2.99                ether   a0:8c:fd:22:51:b0   CM                    enp7s0
+10.42.0.100              ether   40:4d:7f:86:e6:f7   C                     wlp6s0
+10.42.0.116              ether   34:68:95:ae:7d:f1   C                     wlp6s0
+
+sudo arp -s 10.0.2.98 a0:8c:fd:22:51:b1
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.42.0.132                      (incomplete)                              wlp6s0
+10.42.0.40                       (incomplete)                              wlp6s0
+10.42.0.242                      (incomplete)                              wlp6s0
+10.42.0.103                      (incomplete)                              wlp6s0
+10.42.0.42                       (incomplete)                              wlp6s0
+10.0.2.19                ether   a0:8c:fd:22:51:b0   CM                    enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+10.42.0.43                       (incomplete)                              wlp6s0
+10.42.0.51                       (incomplete)                              wlp6s0
+10.0.2.98                ether   a0:8c:fd:22:51:b1   CM                    enp7s0
+10.0.2.76                ether   70:4d:7b:bd:2e:99   C                     enp7s0
+10.0.2.68                ether   d0:bf:9c:0f:7f:18   C                     enp7s0
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.0.2.99                ether   a0:8c:fd:22:51:b1   CM                    enp7s0
+10.42.0.100              ether   40:4d:7f:86:e6:f7   C                     wlp6s0
+10.42.0.116              ether   34:68:95:ae:7d:f1   C                     wlp6s0
+
+
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.0.2.58                ether   94:57:a5:da:69:e8   C                     enp7s0
+10.0.2.19                ether   a0:8c:fd:22:51:b0   CM                    enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+10.0.2.20                ether   a0:8c:fd:22:51:b1   CM                    enp7s0
+
+Address                  HWtype  HWaddress           Flags Mask            Iface
+10.0.0.254               ether   4c:4e:35:97:1e:ef   C                     enp7s0
+10.0.2.58                ether   94:57:a5:da:69:e8   C                     enp7s0
+10.0.2.19                ether   a0:8c:fd:22:51:b1   CM                    enp7s0
+10.0.2.74                ether   a0:8c:fd:22:51:b0   C                     enp7s0
+10.0.2.20                ether   a0:8c:fd:22:51:b1   CM                    enp7s0
+
+
+
+
+
+8]
+
+nmap -sP -n 10.0.2.77/26
+
+1:30 a.m.
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-23 01:28 IST
+Nmap scan report for 10.0.2.69
+Host is up (0.0021s latency).
+Nmap scan report for 10.0.2.73
+Host is up (0.00081s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.000046s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00045s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.00060s latency).
+Nmap done: 64 IP addresses (5 hosts up) scanned in 1.70 seconds
+
+
+
+2:00 a.m.
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-23 02:01 IST
+Nmap scan report for 10.0.2.73
+Host is up (0.0013s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.00020s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00044s latency).
+Nmap done: 64 IP addresses (3 hosts up) scanned in 1.71 seconds
+
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-23 09:47 IST
+Nmap scan report for 10.0.2.74
+Host is up (0.0014s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.00031s latency).
+Nmap scan report for 10.0.2.79
+Host is up (0.00022s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00043s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.00077s latency).
+Nmap done: 64 IP addresses (5 hosts up) scanned in 2.61 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-23 11:21 IST
+Nmap scan report for 10.0.2.74
+Host is up (0.0012s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.00019s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00072s latency).
+Nmap done: 64 IP addresses (3 hosts up) scanned in 2.50 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-23 11:29 IST
+Nmap scan report for 10.0.2.74
+Host is up (0.00092s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.00016s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00069s latency).
+Nmap done: 64 IP addresses (3 hosts up) scanned in 2.51 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-23 17:51 IST
+Nmap scan report for 10.0.2.68
+Host is up (0.0015s latency).
+Nmap scan report for 10.0.2.73
+Host is up (0.0016s latency).
+Nmap scan report for 10.0.2.74
+Host is up (0.00092s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.000050s latency).
+Nmap scan report for 10.0.2.79
+Host is up (0.00026s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00059s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.0016s latency).
+Nmap done: 64 IP addresses (7 hosts up) scanned in 1.60 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-23 18:32 IST
+Nmap scan report for 10.0.2.68
+Host is up (0.00076s latency).
+Nmap scan report for 10.0.2.73
+Host is up (0.00084s latency).
+Nmap scan report for 10.0.2.74
+Host is up (0.0013s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.000047s latency).
+Nmap scan report for 10.0.2.79
+Host is up (0.00013s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00047s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.00076s latency).
+Nmap done: 64 IP addresses (7 hosts up) scanned in 2.56 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-24 00:05 IST
+Nmap scan report for 10.0.2.66
+Host is up (0.0011s latency).
+Nmap scan report for 10.0.2.68
+Host is up (0.0010s latency).
+Nmap scan report for 10.0.2.69
+Host is up (0.0022s latency).
+Nmap scan report for 10.0.2.73
+Host is up (0.0023s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.000082s latency).
+Nmap scan report for 10.0.2.79
+Host is up (0.00016s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00068s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.00046s latency).
+Nmap scan report for 10.0.2.89
+Host is up (0.00077s latency).
+Nmap done: 64 IP addresses (9 hosts up) scanned in 1.60 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-24 01:00 IST
+Nmap scan report for 10.0.2.68
+Host is up (0.0011s latency).
+Nmap scan report for 10.0.2.69
+Host is up (0.00046s latency).
+Nmap scan report for 10.0.2.73
+Host is up (0.0010s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.000051s latency).
+Nmap scan report for 10.0.2.79
+Host is up (0.00020s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00037s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.00040s latency).
+Nmap done: 64 IP addresses (7 hosts up) scanned in 1.70 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-24 01:47 IST
+Nmap scan report for 10.0.2.73
+Host is up (0.00093s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.00011s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00043s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.0019s latency).
+Nmap done: 64 IP addresses (4 hosts up) scanned in 1.60 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-24 02:02 IST
+Nmap scan report for 10.0.2.73
+Host is up (0.00091s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.000069s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00040s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.00076s latency).
+Nmap done: 64 IP addresses (4 hosts up) scanned in 1.70 seconds
+
+Starting Nmap 7.01 ( https://nmap.org ) at 2018-01-24 13:52 IST
+Nmap scan report for 10.0.2.73
+Host is up (0.0018s latency).
+Nmap scan report for 10.0.2.74
+Host is up (0.00097s latency).
+Nmap scan report for 10.0.2.77
+Host is up (0.000054s latency).
+Nmap scan report for 10.0.2.84
+Host is up (0.00040s latency).
+Nmap scan report for 10.0.2.85
+Host is up (0.0011s latency).
+Nmap scan report for 10.0.2.89
+Host is up (0.00082s latency).
+Nmap done: 64 IP addresses (6 hosts up) scanned in 1.61 seconds
+top to bottom then again top
+
